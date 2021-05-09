@@ -7,6 +7,14 @@
   pointer-events: none;
 }
 
+@import url("https://fonts.googleapis.com/css2?family=Itim&display=swap");
+
+h1 {
+  font-family: "Itim", cursive;
+  font-size: 60px;
+  color: aquamarine;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
